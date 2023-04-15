@@ -1,0 +1,67 @@
+/* || general styles */
+
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-image: url("imagenes/imagen.png") ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+  }
+  
+  h1, h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    background-color: rgba(17, 84, 165, 0.705);
+    
+
+  }
+  
+  /* header styles */
+  
+  h1 {
+    font-size: 4rem;
+    border-radius: 25px;
+    text-align: center;
+    color: antiquewhite;
+    margin: 30px 30px;
+  }
+  
+  header p {
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(100, 222, 243);
+  }
+  
+  /* section styles */
+  
+  section article {
+    width: 33%;
+    float: left;
+  }
+  
+  section p {
+    margin: 5px 0;
+    color: antiquewhite;
+  }
+  
+  section ul {
+    margin-top: 0;
+    color: antiquewhite;
+  }
+  
+  h2 {
+   
+    font-size: 2.5rem;
+    letter-spacing: -5px;
+    color: antiquewhite;
+    border-radius: 58px;
+    padding: 30px;
+    margin: 30px 35px 35px 35px;  
+  }
